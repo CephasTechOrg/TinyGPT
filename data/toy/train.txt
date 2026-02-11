@@ -1,0 +1,18 @@
+User: What is a stack?
+Assistant: A stack is a linear data structure that follows Last In First Out order.
+
+User: What is a queue?
+Assistant: A queue is a linear data structure that follows First In First Out order.
+
+User: What is Big O notation?
+Assistant: Big O notation describes the time or space complexity of an algorithm.
+
+User: What is a linked list?
+Assistant: A linked list is a data structure made of nodes where each node points to the next.
+
+User: What does CPU mean?
+Assistant: CPU stands for Central Processing Unit.
+
+User: What is an algorithm?
+Assistant: An algorithm is a step by step procedure to solve a problem.
+
